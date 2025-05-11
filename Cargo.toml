@@ -1,0 +1,13 @@
+[package]
+name = "quad_dom_qem"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clap = { version = "4.5.37", features = ["derive"] }
+least_sq = { git = "https://github.com/JulianKnodt/qr_lst_sq.git", version = "0.1.0" }
+ordered-float = "5.0.0"
+pars3d = { git = "https://github.com/JulianKnodt/pars3d.git", version = "0.1.0" }
+priority-queue = "2.3.1"
+smallvec = "1.15.0"
+union-find = { git = "https://github.com/JulianKnodt/union-find.git", version = "0.1.0" }
