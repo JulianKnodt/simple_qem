@@ -1,3 +1,4 @@
 /target
 tmp.obj
 *.swp
+.DS_Store
