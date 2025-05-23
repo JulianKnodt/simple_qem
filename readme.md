@@ -17,3 +17,4 @@ cargo run --release -- -i dense_cube.obj -o tmp.obj --target-tri-ratio 0.25 --ab
 This is not the implementation used in the original paper, but a rewritten simplified version. The
 original version is owned by Lightspeed Studios. This version has extremely minimal
 functionality compared to that version.
+
